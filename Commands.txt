@@ -14,3 +14,5 @@
 3. java -jar corda-tools-network-bootstrapper-4.8.jar 
 4. this created artifacts inside nodes folder
 5. to run the node, get into node fodler and run 'java -jar corda.jar'. This will start the node
+6. type: run networkMapSnapshot to check the details
+7. 
