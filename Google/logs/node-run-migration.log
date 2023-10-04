@@ -1,0 +1,13 @@
+
+   ______               __
+  / ____/     _________/ /___ _
+ / /     __  / ___/ __  / __ `/         There are two rules for financial success:
+/ /___  /_/ / /  / /_/ / /_/ /          1) Don't tell everything you know.
+\____/     /_/   \__,_/\__,_/
+
+--- Corda Open Source 4.8 (d7a710c) -------------------------------------------------------------
+
+
+Logs can be found in                    : D:\Study\Corda\Cordapp-Node-Setup\Google\logs
+Running database schema migration scripts ...
+Database migration scripts for core and app schemas complete. There are no outstanding database changes.

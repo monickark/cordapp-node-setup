@@ -1,0 +1,6 @@
+.cache/
+.idea/
+Apple/corda.jar
+Microsoft/corda.jar
+Google/corda.jar
+corda-tools-network-bootstrapper-4.8.jar
